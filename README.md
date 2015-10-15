@@ -7,5 +7,5 @@
 - Kadua tinggal terapkeun kana php siga kieu conto na $as->jaga($_POST['name']);
  
 ###Conto na
-http://pastebin.com/WPRj4nL6
+http://pastebin.com/WPRj4nL6 
   
