@@ -1,5 +1,6 @@
 # pustaka-anti-suntikan-PHP
-Pustaka ieu di jieun ajang nyaring inputan anu teu pararuguh.
+- Pustaka ieu di jieun ajang nyaring inputan anu teu pararuguh.
+- Pustaka ieu di jieun make php versi 5.4
 
 ###Cara ngagunakeun
 - Panggil heula class na $as = new Anti_Suntikan;
