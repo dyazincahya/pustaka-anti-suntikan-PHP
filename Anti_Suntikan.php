@@ -6,7 +6,7 @@
 	 */
 
 	class Anti_Suntikan {
-		function jaga($data){
+		public function jaga($data){
 			$saring = mysql_real_escape_string(stripslashes(strip_tags(htmlspecialchars($data, ENT_QUOTES))));
 			return $saring;
 		}
