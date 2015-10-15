@@ -1,0 +1,14 @@
+<?php 
+	//defined('BASEPATH') OR exit('No direct script access allowed');
+	/**
+	 * Pustaka PHP Anti Suntikan
+	 * Di Test Jeung Di Jieun Dina PHP VERSI 5.4
+	 */
+
+	class Anti_Suntikan {
+		function jaga($data){
+			$saring = mysql_real_escape_string(stripslashes(strip_tags(htmlspecialchars($data, ENT_QUOTES))));
+			return $saring;
+		}
+	}
+?>
