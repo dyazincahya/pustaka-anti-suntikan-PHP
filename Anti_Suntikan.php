@@ -1,5 +1,4 @@
 <?php 
-	//defined('BASEPATH') OR exit('No direct script access allowed');
 	/**
 	 * Pustaka PHP Anti Suntikan
 	 * Di Test Jeung Di Jieun Dina PHP VERSI 5.4
